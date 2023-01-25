@@ -4,13 +4,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# About me!
+# About me! 
   Hello Devs, my name is Lucas Marques Duarte, I'm 19 years old and I'm currently studying Systems Analysis and Development, I'm a technology, games and sports enthusiast.
 
 ### Tradução
   Olá devs, me chamo Lucas Marques Duarte, tenho 19 anos e atualmente estou cursando Análise e desenvolvimento de sistemas, sou um adorador da área de tecnologia, jogos e esportes.
 
-
+ 🎮
 <br>
 <br>
 
