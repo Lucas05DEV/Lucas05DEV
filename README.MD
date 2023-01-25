@@ -9,8 +9,6 @@
 
 ### Tradução
   Olá devs, me chamo Lucas Marques Duarte, tenho 19 anos e atualmente estou cursando Análise e desenvolvimento de sistemas, sou um adorador da área de tecnologia, jogos e esportes.
-
- 🎮
 <br>
 <br>
 
