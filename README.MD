@@ -62,9 +62,9 @@
 
 <p>
 
-   [![lucas05dev](https://github-readme-stats.vercel.app/api?username=lucas05dev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+   ![lucas05dev](https://github-readme-stats.vercel.app/api?username=lucas05dev&theme=tokyonight)
 
-   [![lucas05dev](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas05dev&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   ![lucas05dev](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas05dev&hide=html&layout=compact&theme=tokyonight)
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
