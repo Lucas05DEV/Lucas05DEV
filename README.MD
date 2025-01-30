@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucas05dev)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lucas05DEV.id&left_color=green&right_color=red)
 
 </p>
 
