@@ -11,10 +11,10 @@
 </p>
 
 # About me! 
-  Hello Devs, my name is Lucas Marques Duarte, I'm 20 years old and I'm currently studying Systems Analysis and Development, I'm a technology, games and sports enthusiast.
+  Hello Devs, my name is Lucas Marques Duarte, I'm 21 years old and I'm currently studying Systems Analysis and Development, I'm a technology, games and sports enthusiast.
 
 ### Tradução
-  Olá devs, me chamo Lucas Marques Duarte, tenho 20 anos e atualmente estou cursando Análise e desenvolvimento de sistemas, sou um adorador da área de tecnologia, jogos e esportes.
+  Olá devs, me chamo Lucas Marques Duarte, tenho 21 anos e atualmente estou cursando Análise e desenvolvimento de sistemas, sou um adorador da área de tecnologia, jogos e esportes.
 <br>
 <br>
 
